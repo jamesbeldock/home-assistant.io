@@ -66,10 +66,13 @@ Basic instruction for all APIs:
 
 The Cloud text-to-speech API is priced monthly based on the amount of characters to synthesize into audio sent to the service.
 
-| Feature                       | Monthly free tier         | Paid usage                        |
+| Voices                        | Monthly free tier         | Paid usage                        |
 | ----------------------------- | ------------------------- | --------------------------------- |
-| Standard (non-WaveNet) voices | 0 to 4 million characters | $4.00 USD / 1 million characters  |
-| WaveNet voices                | 0 to 1 million characters | $16.00 USD / 1 million characters |
+| Neural2                       | 0 to 1 million characters | $16.00 USD / 1 million characters |
+| Polyglot (Preview)            | 0 to 1 million characters | $16.00 USD / 1 million characters |
+| Studio (Preview)              | 0 to 1 million characters | $16.00 USD / 1 million characters |
+| WaveNet                       | 0 to 1 million characters | $16.00 USD / 1 million characters |
+| Standard (non-WaveNet)        | 0 to 4 million characters | $4.00 USD / 1 million characters  |
 
 ### Text-to-speech configuration
 
