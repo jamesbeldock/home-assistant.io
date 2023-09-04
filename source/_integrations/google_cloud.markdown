@@ -49,7 +49,7 @@ Basic instruction for all APIs:
 6. Set up authentication:
 
     1. Visit [this link](https://console.cloud.google.com/apis/credentials/serviceaccountkey)
-    2. From the `Service account` list, select `New service account`.
+    2. In the toolbar above the `Service account` list, click on `Create service account`.
     3. In the `Service account name` field, enter any name.
 
     If you are requesting a text-to-speech API key:
